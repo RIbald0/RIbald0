@@ -11,10 +11,8 @@
 
 ## 🚀 About Me
 
-I am a passionate **Fullstack Developer** with a background in Technical Support. I thrive on bridging the gap between complex technical issues and elegant code solutions. Recently, I've been focused on mastering the **PERN stack** and implementing robust security architectures like **Silent JWT Refresh**.
+I am a passionate **Fullstack Developer** with a background in Technical Support. I thrive on bridging the gap between complex technical issues and elegant code solutions. Recently, I've been focused on mastering the **PERN stack** and implementing robust security architectures.
 
-- 🔭 I’m currently building **PollMaster**
-- 🌱 I’m currently deep-diving into **Backend Security & Relational Databases**
 - ⚡ Fun fact: I treat debugging like detective work—no bug stays hidden for long!
 
 ---
@@ -43,6 +41,7 @@ I am a passionate **Fullstack Developer** with a background in Technical Support
   </summary>
 
   ### Frontend
+  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
   ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
   ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
   ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -50,25 +49,4 @@ I am a passionate **Fullstack Developer** with a background in Technical Support
   ### Backend & Database
   ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
   ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-  ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-  ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-</details>
-
-<details>
-  <summary>
-    <h2>
-      <img align="center" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="32"/> 
-      Stats
-    </h2>
-  </summary>
-  <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=RIbald0&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false" /><br/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=RIbald0&theme=tokyonight&hide_border=false" /><br/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RIbald0&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
-  </div>
-</details>
-
-<details>
-  <summary>
-    <h2>
-      <img align="center" src="
+  ![PostgreSQL](
