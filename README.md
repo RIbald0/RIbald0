@@ -1,7 +1,6 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20Gestures/Waving%20Hand.png" width="35px"/>, I'm Matteo Balducci</h1>
+<h1 align="center">Hi 👋, I'm Matteo Balducci</h1>
 
 <h2 align="center">
-  <img src="https://komarev.com/ghpvc/?username=RIbald0&color=dc143c&style=for-the-badge" alt="Profile Views" style="height:21px;">
   Fullstack Developer | Technical Support @ Base44
 </h2>
 
@@ -22,8 +21,7 @@ I am a passionate **Fullstack Developer** with a background in Technical Support
 <details>
  <summary>
     <h2> 
-      <img align="center" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" width="32" /> 
-    Experience
+      💼 Experience
     </h2>
  </summary>
 
@@ -35,8 +33,7 @@ I am a passionate **Fullstack Developer** with a background in Technical Support
 <details>
   <summary>
     <h2>
-      <img align="center" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="32"/> 
-      Tech Stack
+      💻 Tech Stack
     </h2>
   </summary>
 
@@ -56,8 +53,7 @@ I am a passionate **Fullstack Developer** with a background in Technical Support
 <details>
   <summary>
     <h2>
-      <img align="center" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bookmark%20Tabs.png" width="32"/> 
-      Featured Project
+      📑 Featured Project
     </h2>
   </summary>
 
@@ -71,8 +67,7 @@ I am a passionate **Fullstack Developer** with a background in Technical Support
 <details>
   <summary>
     <h2>
-      <img align="center" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Communication/Incoming%20Envelope.png" width="32"/> 
-      Contact Me
+      📩 Contact Me
     </h2>
   </summary>
   <p>
