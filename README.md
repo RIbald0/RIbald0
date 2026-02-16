@@ -58,6 +58,8 @@ I am a passionate **Fullstack Developer** with a background in Technical Support
   </summary>
 
   ### [PollMaster - DI Bootcamp Final Project](https://github.com/RIbald0/DI-Bootcamp/tree/main/Week24/finalproject)
+  **[🔗 Live Demo](https://pollmaster-client.onrender.com)** | **[💻 Source Code](https://github.com/RIbald0/DI-Bootcamp/tree/main/Week24/finalproject)**
+
   A full-stack polling application featuring:
   - Secure **JWT Silent Refresh** logic via HTTP-only cookies.
   - Relational database management with **PostgreSQL**.
