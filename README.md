@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Matteo Balducci</h1>
 
 <h2 align="center">
-  Fullstack Developer | Technical Support @ Base44
+  Fullstack Developer | Technical Support @ Base44 | Ex-Wix Product Support
 </h2>
 
 <div align="center">
@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 
-I am a passionate **Fullstack Developer** with a background in Technical Support. I thrive on bridging the gap between complex technical issues and elegant code solutions. Recently, I've been focused on mastering the **PERN stack** and implementing robust security architectures.
+I am a passionate **Fullstack Developer** with a deep background in Product and Technical Support. With over 5 years of experience at **Wix** and my current role at **Base44**, I specialize in bridging the gap between complex technical architecture and elegant, user-centric code solutions.
 
 - ⚡ Fun fact: I treat debugging like detective work—no bug stays hidden for long!
 
@@ -25,9 +25,12 @@ I am a passionate **Fullstack Developer** with a background in Technical Support
     </h2>
  </summary>
 
-- **Technical Support** at Base44 | Current
-    - Troubleshooting complex system integrations and providing technical solutions for clients.
-- **Independent Fullstack Development** - Architecting and deploying end-to-end web applications using React, Node.js, and PostgreSQL.
+- **Technical Support** at Base44 | August 2025 – Present
+    - Troubleshooting complex system integrations and providing technical solutions for enterprise clients.
+- **Product Support Group** at Wix.com | October 2020 – 2024
+    - Spent over 5 years advancing from the **Italian Customer Support** team to the **Product Support Group**, acting as a critical bridge between users and developers to resolve high-level product issues.
+- **Independent Fullstack Development**
+    - Architecting and deploying end-to-end web applications using the PERN stack (PostgreSQL, Express, React, Node).
 </details>
 
 <details>
