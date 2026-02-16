@@ -49,4 +49,43 @@ I am a passionate **Fullstack Developer** with a background in Technical Support
   ### Backend & Database
   ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
   ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-  ![PostgreSQL](
+  ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+  ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+</details>
+
+<details>
+  <summary>
+    <h2>
+      <img align="center" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bookmark%20Tabs.png" width="32"/> 
+      Featured Project
+    </h2>
+  </summary>
+
+  ### [PollMaster - DI Bootcamp Final Project](https://github.com/RIbald0/DI-Bootcamp/tree/main/Week24/finalproject)
+  A full-stack polling application featuring:
+  - Secure **JWT Silent Refresh** logic via HTTP-only cookies.
+  - Relational database management with **PostgreSQL**.
+  - Dynamic frontend built with **React** and **TypeScript**.
+</details>
+
+<details>
+  <summary>
+    <h2>
+      <img align="center" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Communication/Incoming%20Envelope.png" width="32"/> 
+      Contact Me
+    </h2>
+  </summary>
+  <p>
+    <i>Feel free to reach out for collaborations or just a tech chat!</i><br/><br/>
+    <a href="mailto:balduccimatt@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+  </p>
+</details>
+
+<details>
+  <summary>Click to see a random dev joke</summary>
+  <div align="center">
+    <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" />
+  </div>
+</details>
